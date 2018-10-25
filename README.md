@@ -53,4 +53,4 @@ fork + open pull requests and I'll integrate the fixes.
 
 ## License
 
-Please see [LICENSE]*(./LICENSE)
+Please see [LICENSE](./LICENSE)
